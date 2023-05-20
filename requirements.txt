@@ -16,7 +16,7 @@ idna
 inflect
 ipython
 jedi
-Jinja2=
+Jinja2
 joblib
 lazy_loader
 librosa
