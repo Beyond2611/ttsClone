@@ -73,7 +73,7 @@ torchaudio
 torchvision
 tqdm
 traitlets
-transformers
+transformers==4.29.2
 triton
 typing_extensions
 Unidecode
